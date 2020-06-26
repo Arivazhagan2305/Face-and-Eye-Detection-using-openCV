@@ -2,7 +2,8 @@
 
 The python packages used in the project are
 
-opencv-contrib-python
-os
+opencv-contrib-python 
 
 Install this packages using pip install
+
+pip install opencv-contrib-python
