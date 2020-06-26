@@ -12,8 +12,6 @@ face_cascade=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 eye_cascade=cv2.CascadeClassifier("haarcascade_eye.xml")
 
 video_capture=cv2.VideoCapture(0)
-video_capture.set(4,680)
-video_capture.set(4,780)
 
 a=0
 print("Camera loading look to the camera")
