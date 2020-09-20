@@ -1,6 +1,6 @@
 # Face-and-Eye-Detection-using-openCV
 
-The python packages used in the project are
+The python packages used in the project is
 
 opencv-contrib-python 
 
