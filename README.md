@@ -6,4 +6,4 @@ opencv-contrib-python
 
 Install this packages using pip install
 
-pip install opencv-contrib-python
+pip install opencv-contrib-python(type in cmd to install the package)
